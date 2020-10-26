@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="tab_text_1">ALL RECIPE</string>
+    <string name="tab_text_2">FAVORITE</string>
+</resources>
